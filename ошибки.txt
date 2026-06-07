@@ -1,0 +1,1 @@
+C:\Users\comp-8\AppData\Local\Programs\Python\Python314\python.exe: can't open file 'C:\\Users\\comp-8\\Desktop\\проекты\\courier_service.py': [Errno 2] No such file or directory
